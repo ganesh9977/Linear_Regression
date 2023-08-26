@@ -1,4 +1,4 @@
-# Linear_Regression
+# Logistic_Regression
 ## project title : predict the heart attack disease for organisation WHO. using machine learning algorithm rate of heart attack disease will increasing manner or decreasing manner
 ## Problem Statement:
 World heard organization estimated 12 millions Dead records. One of them half of the dead result is found in US. The research scsholer point out the most relevent risk factor of heartattack as a data science engineer predict the overall risk using machine learning algorithm is called logistic regression
